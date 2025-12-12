@@ -30,15 +30,6 @@
 
 ---
 
-<!-- GITHUB STATS INSIDE SAME RECTANGLE -->
-<h3>📊 GitHub Stats</h3>
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aditi-borse&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=aditi-borse&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <!-- BUTTON LINKS -->
 <h3>🌐 Connect With Me</h3>
 <a href="https://www.linkedin.com/in/aditi-borse">
