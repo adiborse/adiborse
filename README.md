@@ -1,57 +1,56 @@
-<h2 align="left">Hi 👋! My name is Aditi  and I'm a Java Developer ....</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiborse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=adiborse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiborse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<!-- MAIN RECTANGLE CARD -->
+<div style="
+    border: 3px solid #9b5de5;
+    border-radius: 25px;
+    padding: 30px;
+    width: 850px;
+    background: rgba(155, 93, 229, 0.07);
+    box-shadow: 0 0 12px rgba(155, 93, 229, 0.4);
+">
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=900&color=9B5DE5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditi+Borse!;AI+%7C+Deep+Learning+%7C+UI%2FUX;Full+Stack+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+
+<!-- CARTOON / ANIME CODING GIF -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
+
+---
+
+<!-- SHORT DESCRIPTION -->
+<h3>🚀 IT Engineer | 🧠 Deep Learning | 🎨 UI/UX Designer</h3>
+<p>Creating intelligent systems with a designer's touch — simple, fast, elegant.</p>
+
+---
+
+<!-- TECH STACK INSIDE BOX -->
+<h3>🛠 Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,java,cpp,html,css,flutter,git,figma&theme=light" />
+
+---
+
+<!-- GITHUB STATS INSIDE SAME RECTANGLE -->
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aditi-borse&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=aditi-borse&theme=tokyonight&hide_border=true" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- BUTTON LINKS -->
+<h3>🌐 Connect With Me</h3>
+<a href="https://www.linkedin.com/in/aditi-borse">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40">
+</a>
+<a href="mailto:aditi.borse@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40">
+</a>
+<a href="https://github.com/aditi-borse">
+  <img src="https://skillicons.dev/icons?i=github" height="40">
+</a>
 
-###
+</div>  <!-- END MAIN RECTANGLE -->
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="adi.borse2104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aditi-borse-177334325/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/adi_borse2104" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adiborse/adiborse/output/snake.svg" alt="Snake animation" />
-
-###
